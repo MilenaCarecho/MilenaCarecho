@@ -10,7 +10,7 @@
 - 🥰 O projeto que tenho mais orgulho é [Guia Desenvolvedora Web](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb) 
 
 
-  👇   Você pode me encontrar nas redes sociais 👇
+  👇👇   Você pode me encontrar nas redes sociais 👇👇
  
  
    [![linkedin](https://user-images.githubusercontent.com/37448340/87230217-d1223200-c384-11ea-83c1-27175c5f45b2.png)](https://www.linkedin.com/in/milena-carecho-24b1ba142/)
