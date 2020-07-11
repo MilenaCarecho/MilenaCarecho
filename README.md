@@ -4,7 +4,7 @@
 **Alguns fatos sobre mim: 🙋🏻**
 
 
-- 📚  estudante de Analise e desenvlvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP 
+- 📚 Estudante de Analise e desenvolvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP 
 - 🦏 Eu estou focando meus estudos em Javascript  
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer 
 - 🥰 O projeto que tenho mais orgulho é [Guia Desenvolvedora Web](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb) 
