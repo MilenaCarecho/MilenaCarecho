@@ -1,4 +1,4 @@
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png))](https://www.linkedin.com/in/milena-carecho-24b1ba142/)
+[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/milena-carecho-24b1ba142/)
 ### Olá 🖖
 **Eu me chamo Milena e aqui vai alguns fatos sobre mim:**
 - 📚 Estudante de Analise e desenvolvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP
