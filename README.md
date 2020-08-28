@@ -1,10 +1,16 @@
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/milenacarecho/)
-### Olá 🖖
-**Eu me chamo Milena e aqui vai alguns fatos sobre mim:**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milenacarecho/)
+[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milena.c@aluno.ifsp.edu.br)
+
+Olá, eu sou a Milena!
+
 - 📚 Estudante de Analise e desenvolvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP
+- 📚 [Meus livros](https://github.com/MilenaCarecho/myBooks)
 - 🦏 Eu estou focando meus estudos em Javascript
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
-- 🥰 O projeto que tenho mais orgulho é [Guia Desenvolvedora Web](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
 
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a>
+</p> 
    
   
