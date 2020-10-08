@@ -8,6 +8,7 @@ Olá, eu sou a Milena!
 - 📚 [Meus livros](https://github.com/MilenaCarecho/myBooks)
 - 🦏 Eu estou focando meus estudos em Javascript
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
+- ❤️ Faço lives na [Twitch](https://www.twitch.tv/ahmilena)
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a>
