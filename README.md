@@ -6,9 +6,12 @@ Olá, eu sou a Milena!
 
 - 🕮 Estudante de Analise e desenvolvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP
 - 📚 [Meus livros](https://github.com/MilenaCarecho/myBooks)
-- 🦏 Eu estou focando meus estudos em Javascript
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
 - ❤️ Faço lives na [Twitch](https://www.twitch.tv/ahmilena)
+- 🔎 Conheça alguns dos meus projetos
+   - [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS)
+   - [MiniProjetos](https://github.com/MilenaCarecho/MiniProjetos)
+   - [GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a>
