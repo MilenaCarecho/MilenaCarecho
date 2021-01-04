@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milena.c@aluno.ifsp.edu.br)
 
-Olá, eu sou a Milena!
+Oi, eu sou a Milena!
 
 - 📖 Estudante de Analise e desenvolvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP
 - 📚 [Meus livros](https://github.com/MilenaCarecho/myBooks)
