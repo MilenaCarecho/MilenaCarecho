@@ -13,6 +13,11 @@ Oi, eu sou a Milena!
    - [MiniProjetos](https://github.com/MilenaCarecho/MiniProjetos)
    - [GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
 
+<p align="center">
+   ![Visitor Count](https://profile-counter.glitch.me/{MilenaCarecho}/count.svg)
+</p>
+
+
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a>
 </p> 
