@@ -14,7 +14,7 @@ Oi, eu sou a Milena!
    - [GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
 
 <p align="center">
-   ![Visitor Count](https://profile-counter.glitch.me/{MilenaCarecho}/count.svg)
+   ![VisitorCount](https://profile-counter.glitch.me/{MilenaCarecho}/count.svg)
 </p>
 
 
