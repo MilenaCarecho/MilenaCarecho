@@ -13,9 +13,7 @@ Oi, eu sou a Milena!
    - [MiniProjetos](https://github.com/MilenaCarecho/MiniProjetos)
    - [GuiaDesenvolvedoraWeb](https://github.com/MilenaCarecho/GuiaDesenvolvedoraWeb)
 
-<p align="center">
-   [![VisitorCount](https://profile-counter.glitch.me/{MilenaCarecho}/count.svg)]
-</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MilenaCarecho}/count.svg" alt="Milena :: Visitor's Count" /></p>
 
 
 <p align="center"> 
