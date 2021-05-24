@@ -17,8 +17,12 @@ Oi, eu sou a Milena!
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
- <a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a>
+
+ 
+ <p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a></p>
+ 
+ <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaCarecho)](https://github.com/MilenaCarecho/github-readme-stats)</p>
+ 
 
    
   
