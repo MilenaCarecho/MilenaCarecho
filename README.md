@@ -21,7 +21,7 @@ Oi, eu sou a Milena!
  
  <p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a></p>
  
- <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenacarecho)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenacarecho)](https://github.com/milenacarecho/github-readme-stats)
 </p>
  
 
