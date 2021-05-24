@@ -18,11 +18,10 @@ Oi, eu sou a Milena!
 
 
 
- 
+ <h4 align="center">Contador de visitas :eyes:</h4>
  <p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a></p>
  
- <p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenacarecho)](https://github.com/milenacarecho/github-readme-stats)
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenacarecho&langs_count=10&theme=graywhite&layout=compact" alt="Milena :: Top Langs" /></p>
  
 
    
