@@ -4,6 +4,7 @@
 
 Oi, eu sou a Milena!
 
+- 👩‍🚀 Cadete na @42sp
 - 📖 Estudante de Analise e desenvolvimento de sistemas pelo Instituto Federal de Educação Ciência e Tecnologia de São Paulo - IFSP
 - 📚 [Meus livros](https://github.com/MilenaCarecho/myBooks)
 - 🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer
