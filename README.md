@@ -1,6 +1,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milenacarecho/)
-[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho) 
+[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:milena.c@aluno.ifsp.edu.br)
+[![Twitter](https://user-images.githubusercontent.com/98053054/151080954-4f6323e3-e869-428e-926a-5bcb1fe496c0.png))](https://twitter.com/MilenaCarecho)
+[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho)
 
 Oi, eu sou a Milena!
 
@@ -17,7 +19,7 @@ Oi, eu sou a Milena!
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenacarecho&langs_count=10&theme=graywhite&layout=compact" alt="Milena :: Top Langs" /></p>
- 
 
-   
-  
+
+
+
